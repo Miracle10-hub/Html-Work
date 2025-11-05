@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+    color: #333;
+}
+
+header {
+    padding: 20px;
+    background-color: #ff6f61;
+    color: white;
+}
+
+.about, .menu {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 12px;
+}
+
+.card {
+    background-color: #ffecd2;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 200px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+footer {
+    background-color: #ff6f61;
+    color: white;
+    padding: 10px;
+}
